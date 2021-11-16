@@ -6,7 +6,7 @@
     "start": "node_modules/.bin/serverless offline start --host 0.0.0.0 --region eu-central-1"
   },
   "dependencies": {
-    "aws-sdk": "^2.542.0"
+    "aws-sdk": "^2.814.0"
   },
   "devDependencies": {
     "@types/node": "^12.7.11",
